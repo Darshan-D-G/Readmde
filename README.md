@@ -203,7 +203,7 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
       <br>
-      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
+      <a href="https://www.cloudskillsboost.google/public_profiles/3b4b47fb-8ba6-4a9e-a365-6f07f843f6f7/badges/13657288">
         <img width="120" src="https://github.com/user-attachments/assets/5da2e679-3b52-4441-8283-cc0326214a9f" />
       </a>
       <br>
